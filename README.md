@@ -1037,7 +1037,7 @@ return result
 
 ```
 
-The video ouput: Here is a link to the youtube video: <a href="https://youtu.be/ae6tgDPAvy8" target="_blank"
+The video ouput: Here is a link to the youtube video: <a href="https://youtu.be/ae6tgDPAvy8" target="_blank"></a>
 
 
 ```python
