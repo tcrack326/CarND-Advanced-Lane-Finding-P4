@@ -1037,7 +1037,8 @@ return result
 
 ```
 
-The video ouput
+The video ouput: Here is a link to the youtube video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ae6tgDPAvy8" frameborder="0" allowfullscreen></iframe>
 
 
 ```python
