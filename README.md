@@ -1,5 +1,5 @@
 # CarND-Advanced-Lane-Finding-P4
-This is the fourth project in the Udacity Self-Driving Car Nanodegree program
+This is the fourth project in the Udacity Self-Driving Car Nanodegree program. This project was performed in Jupyter notebook which has been exported and appended below.
 
 
 
