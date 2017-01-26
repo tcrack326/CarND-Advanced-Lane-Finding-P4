@@ -1038,6 +1038,7 @@ return result
 ```
 
 The video ouput: Here is a link to the youtube video: <a href="https://youtu.be/ae6tgDPAvy8" target="_blank"></a>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ae6tgDPAvy8/0.jpg)](https://www.youtube.com/watch?v=ae6tgDPAvy8)
 
 
 ```python
