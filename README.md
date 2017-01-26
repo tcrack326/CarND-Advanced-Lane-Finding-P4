@@ -1087,6 +1087,8 @@ HTML("""
 
 I did the challenge video and performed just ok. The problem my lane detecter had was with the lane width. I grabbed a wide area for the perspective transformation and these lanes are more narrow than the other video the result is that the edge of the road gets confused as a lane line.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/HBwfuriw5XQ/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/HBwfuriw5XQ)
+
 
 ```python
 challenge_video_output = 'challenge_video_output.mp4'
@@ -1136,6 +1138,7 @@ I also looked at the harder video challenge to see performance there. As before 
 
 NOTE: There was an error in the code that occurred while writing the video output. I ran out of time to correct it but plan on it correcting it soon.
 
+Link to video: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/https://youtu.be/DKPpNCjYCNk/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/https://youtu.be/DKPpNCjYCNk)
 
 ```python
 harder_challenge_video_output = 'harder_challenge_video_output.mp4'
@@ -1161,10 +1164,8 @@ HTML("""
 <source src="harder_challenge_video_output.mp4">
 </video>
 
+## Conclusions and Reflection
+
+I really enjoyed learning about computer vision and all the variables that must be considered in activity such as driving. I never thought as much about light and shadow as I did working on this project. There is still lots of room for improvement with my lane detecter too. I need to better determine what is a lane and make sure that is consistent over time through videos when light conditions change and other objects are present. If I can better focus my lanes on the lane lines and rule out shadows and edges of roads when I determine the lanes it will perform much better.
 
 
-
-
-```python
-
-```
